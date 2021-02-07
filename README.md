@@ -1,16 +1,18 @@
-### Hi there 👋
+# Pratyush Bhardwaj
 
-<!--
-**TuxKruger/TuxKruger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 16 year old Science Student (PCM) and a Tech Enthusiast who loves Coding and discovering FOSS. I love Linux and anything based on it. I am also an Anime & Manga Otaku. Oh and if I am not active on the internet then I am either sleeping or wasting time on productivity videos on YouTube :p
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What am I learning?
+
+Python, C, Go and Shell scripting
+
+---
+
+## Where else can you find me on the internet?
+
+- GitLab: [@TuxKruger](https://gitlab.com/TuxKruger)
+- Codeberg: [@TuxKruger](https://codeberg.org/TuxKruger)
+- Reddit: [u/TuxKruger](https://www.reddit.com/user/TuxKruger/)
+- Matrix: @tux-kruger:matrix.org
