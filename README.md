@@ -12,7 +12,8 @@ Python, C, Go and Shell scripting
 
 ## Where else can you find me on the internet?
 
-- GitLab: [@TuxKruger](https://gitlab.com/TuxKruger)
+- AniList: [@TuxKruger](https://anilist.co/user/TuxKruger/)
 - Codeberg: [@TuxKruger](https://codeberg.org/TuxKruger)
-- Reddit: [u/TuxKruger](https://www.reddit.com/user/TuxKruger/)
+- GitLab: [@TuxKruger](https://gitlab.com/TuxKruger)
 - Matrix: @tux-kruger:matrix.org
+- Reddit: [u/TuxKruger](https://www.reddit.com/user/TuxKruger/)
