@@ -17,3 +17,4 @@ Python, C, Go and Shell scripting
 - GitLab: [@TuxKruger](https://gitlab.com/TuxKruger)
 - Matrix: @tux-kruger:matrix.org
 - Reddit: [u/TuxKruger](https://www.reddit.com/user/TuxKruger/)
+- Twitter: [@TuxKruger984](https://twitter.com/TuxKruger984)
