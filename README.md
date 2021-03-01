@@ -15,9 +15,12 @@ Python, C, Go and Shell scripting
 - AniList: [@TuxKruger](https://anilist.co/user/TuxKruger/)
 - Codeberg: [@TuxKruger](https://codeberg.org/TuxKruger)
 - GitLab: [@TuxKruger](https://gitlab.com/TuxKruger)
-- Matrix: @tux-kruger:matrix.org
-- Reddit: [u/TuxKruger](https://www.reddit.com/user/TuxKruger/)
-- Session: 05b12b7e1a1864600285394634ef6b99dd96604f09d86ada5ed9b128510fa44363 (I change it from time to time)
-- Twitter: [@TuxKruger984](https://twitter.com/TuxKruger984)
 
-[![forthebadge](https://forthebadge.com/images/badges/kinda-sfw.svg)](https://forthebadge.com)
+---
+
+## How to contact me?
+
+- E-mail address: pratyushofficial@protonmail.com
+- Session: 05b12b7e1a1864600285394634ef6b99dd96604f09d86ada5ed9b128510fa44363
+
+[![forthebadge](https://forthebadge.com/images/badges/kinda-sfw.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
