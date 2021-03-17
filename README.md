@@ -1,4 +1,4 @@
-# Pratyush Bhardwaj
+# Pratyush Sharma
 
 I am a 16 year old Science Student (PCM) and a Tech Enthusiast who loves Coding and discovering FOSS. I love Linux and anything based on it. I am also an Anime & Manga Otaku. Oh and if I am not active on the internet then I am either sleeping or wasting time watching productivity videos on YouTube :p
 
