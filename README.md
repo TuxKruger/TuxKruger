@@ -20,7 +20,7 @@ Python, C, Go and Shell scripting
 
 ## How to contact me?
 
-- E-mail address: pratyushofficial@protonmail.com
+- E-mail address: pratyushofficial@tutanota.com
 - Session: 0577bd60703b0f14b4921dc0d965a8e4f38b3f7b22cb29038e7fa2ad3205c79253
 
 [![forthebadge](https://forthebadge.com/images/badges/kinda-sfw.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
