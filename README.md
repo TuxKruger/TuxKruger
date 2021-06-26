@@ -1,6 +1,6 @@
 ## Pratyush Sharma
 
-I am a 16 year old Science Student (PCM) who loves the world of FOSS. I am trying to learn more and more about Linux, Coding, Hacking and other stuff that I find interesting.
+I am a 17 year old Science Student (PCM) who loves the world of FOSS. I am trying to learn more and more about Linux, Coding, Hacking and other stuff that I find interesting.
 
 ---
 
